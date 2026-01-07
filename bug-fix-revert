@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://api.github.com/repos/realkadirovv/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+    "id": 1001,
+    "state": "open",
+    "title": "Bug fix typo in README.md",
+    "user": {
+      "login": "realkadirovv"
+    },
+    "body": "This pull request fixes a typo in README.md",
+    "head": {
+      "ref": "bug-fix-typo",
+      "repo": {
+        "full_name": "realkadirovv/mcino-Introduction-to-Git-and-GitHub"
+      }
+    },
+    "base": {
+      "ref": "main"
+    }
+  }
+]
