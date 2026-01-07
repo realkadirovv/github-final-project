@@ -1,0 +1,6 @@
+$ git branch -a
+* main
+  bug-fix-typo
+  development
+  remotes/origin/main
+  remotes/origin/bug-fix-typo
